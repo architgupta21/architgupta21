@@ -38,5 +38,5 @@
 ---
 
 ### 📫 Connect With Me
-* **Email:** architgupta7017@gmail.com
-* **GitHub:** [architgupta21](https://github.com/architgupta21)
+* **LinkedIn:** https://www.linkedin.com/in/architgupta21
+* **Leetcode:** https://leetcode.com/u/iamarchit19
