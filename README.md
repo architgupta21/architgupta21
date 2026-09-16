@@ -39,4 +39,4 @@
 
 ### 📫 Connect With Me
 * **LinkedIn:** https://www.linkedin.com/in/architgupta21
-* **Leetcode:** https://leetcode.com/u/iamarchit19
+* **Email:** tech.architgupta@gmail.com
