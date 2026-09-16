@@ -37,14 +37,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=architgupta21&show_icons=true&theme=tokyonight&hide_border=true" alt="Archit's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=architgupta21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
 ### 📫 Connect With Me
 * **Email:** architgupta7017@gmail.com[span_17](start_span)[span_17](end_span)
 * **GitHub:** [architgupta21](https://github.com/architgupta21)[span_18](start_span)[span_18](end_span)
