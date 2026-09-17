@@ -1,4 +1,4 @@
-# Hi 👋, I'm Archit
+# Hi, I'm Archit
 
 > "I believe in the power of compound interest—not just in finance, but in skills. Through daily commits, tackling complex algorithms, and exploring new tech stacks, my goal is to be 1% better today than I was yesterday."
 
@@ -6,15 +6,15 @@
 
 ### 💻 About Me
 * **Software Engineer** specializing in robust backend architectures, distributed microservices, and full-stack development.
-* **Problem Solver:** Solved 600+ Data Structures and Algorithms problems with a max rating of **1602** on LeetCode and achieved Rank 3127 (Top 6%) in LeetCode Weekly Contest 470.
-* **Consistency:** Maintaining a continuous **70+ day streak** solving the LeetCode Problem of the Day (POTD).
+* **Problem Solver:** Solved 600+ Data Structures and Algorithms problems with a max rating of **1641** on LeetCode and achieved Rank 2052 (Top 5%) in LeetCode Bi-Weekly Contest 190.
+* **Consistency:** Maintaining a continuous **150+ days streak** solving the LeetCode Problem of the Day (POTD).
 * **Education:** B.Tech in Artificial Intelligence and Data Science from Dr APJ Abdul Kalam Technical University.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages & Frameworks:** Java, JavaScript, Spring Boot, React.js, Redux Toolkit
-* **Architecture & Backend:** Microservices, Event-Driven Design, RESTful APIs, gRPC, Spring Cloud Gateway, Netflix Eureka, WebSockets
+* **Languages & Frameworks:** Java, Spring Boot, JavaScript, React.js, Redux Toolkit
+* **Architecture & Backend:** Microservices, Event-Driven Design, RESTful APIs, gRPC, Spring Cloud Gateway, WebSockets
 * **Databases & Messaging:** PostgreSQL, MySQL, Apache Kafka, RabbitMQ
 * **Cloud & DevOps:** AWS, Docker, Containerization, Deployment Pipelines
 * **Tools:** Visual Studio Code, IntelliJ IDEA, Git, GitHub
