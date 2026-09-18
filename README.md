@@ -13,11 +13,11 @@
 ---
 
 ### 🛠️ Tech Stack & Skills
-* **Languages & Frameworks:** Java, Spring Boot, JavaScript, React.js, Redux Toolkit
+* **Languages & Frameworks:** Java, Spring Boot, JavaScript, Python 
 * **Architecture & Backend:** Microservices, Event-Driven Design, RESTful APIs, gRPC, Spring Cloud Gateway, WebSockets
-* **Databases & Messaging:** PostgreSQL, MySQL, Apache Kafka, RabbitMQ
+* **Databases & Messaging:** MySQL, PostgreSQL, Apache Kafka, RabbitMQ
 * **Cloud & DevOps:** AWS, Docker, Containerization, Deployment Pipelines
-* **Tools:** Visual Studio Code, IntelliJ IDEA, Git, GitHub
+* **Tools:** Visual Studio Code, IntelliJ IDEA, Git, GitHub, Claude Code, Antigravity
 
 ---
 
